@@ -11,7 +11,7 @@
     - [Data Exploration](#data-exploration)
     - [Scripts](#scripts)
     - [Test](#test)
-    - [Travis](#Travis CI)
+    - [Travis CI](#travis-ci)
 
 ## Overview
 
