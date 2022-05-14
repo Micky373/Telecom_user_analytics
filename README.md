@@ -36,7 +36,11 @@ pip install -r requirements.txt
 ## Features
 
 ### Data Exploration
-  - Data exploration is done in the notebooks folder named as user_overview_analysis.ipynb
+  - Data exploration is done in the notebooks folder the notebooks are named as:
+        - user_overview_analysis.ipynb
+        - user_engagement_analysis.ipynb
+        - user_satisfaction_analysis.ipynb
+        - user_experience_analysis.ipynb
 
 ### Scripts
  - All the scripts used by the notebooks are inside the scripts folder.
