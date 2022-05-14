@@ -4,9 +4,9 @@ from apps import user_engagement, user_experience, user_overview, user_satisfact
 
 app = MultiApp()
 
-st.markdown("""
-# Multi-Page App
-This multi-page app is using the [streamlit-multiapps](https://github.com/upraneelnihar/streamlit-multiapps) framework developed by [Praneel Nihar](https://medium.com/@u.praneel.nihar). Also check out his [Medium article](https://medium.com/@u.praneel.nihar/building-multi-page-web-app-using-streamlit-7a40d55fa5b4).
+st.sidebar.markdown('# **Tellco Customers Analysis**')
+st.sidebar.markdown("""
+Before investing on a business it is a must to have best understanding about the field. This project is all about analyzing TellCo's user and find out whether it is worth buying or selling.
 """)
 
 # Add all your application here
